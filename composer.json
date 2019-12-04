@@ -3,6 +3,7 @@
     "license": "MIT",
     "type": "library",
     "description": "Api client for Assist payment processing service",
+    "keywords": ["assist", "api", "payment", "processing", "russia"],
     "authors": [
         {
             "name": "Alexander Strizhak",
