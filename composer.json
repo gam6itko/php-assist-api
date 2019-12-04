@@ -1,0 +1,26 @@
+{
+    "name": "gam6itko/assist-api",
+    "license": "MIT",
+    "type": "library",
+    "description": "Api client for Assist payment processing service",
+    "authors": [
+        {
+            "name": "Alexander Strizhak",
+            "email": "gam6itko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gam6itko\\Assist\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "lib-curl": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
